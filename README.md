@@ -16,7 +16,7 @@ JavaScript / TypeScript / Angular / NestJs
 
 C# / .NET / ASP.NET
 
-Delphi
+Delphi / Pascal
 
 SQL / NoSQL
 
