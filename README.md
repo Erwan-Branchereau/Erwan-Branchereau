@@ -35,7 +35,7 @@ AzureCosmosDB
 🚀 Projets professionnels & personnels
 🔹 Application de gestion de tâches (Full-Stack)
 
-Développement d’une API REST avec Angular et ASP.NET Core
+Développement d’une App avec Angular et ASP.NET Core
 
 🔗 Lien : https://github.com/Erwan-Branchereau/.... => en cours
 
